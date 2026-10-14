@@ -108,5 +108,5 @@ R packages: `ncdf4`, `stringr`, `lubridate`, `dplyr`, `readxl`, `yaml`,
 (steps 1-2) and `ggplot2`, `sf`, `hexbin`, `patchwork`, `cowplot` (step 3).
 
 ## Contact
-
+dave.casson@ucalgary.ca
 nicolas.vasquez@ucalgary.ca
